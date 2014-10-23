@@ -44,9 +44,7 @@ class Main {
     }
 
     private static void printDBS() {
-        out.println();
-        out.println();
-        out.println();
+        out.println("\n\n");
         out.println("Selecione uma base de dados para fazer a consulta ou qualquer outro dígito para sair.");
         out.println("0 - subset_track_metadata");
         out.println("1 - subset_artist_term");
